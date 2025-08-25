@@ -10,6 +10,9 @@ public class PrincipalFarmacia {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		//se agrega este codigo
+		System.out.println("Este proyecto es de una farmacia");
+		
 		Scanner lectura = null;
 		
 		 String nombreMedi;
